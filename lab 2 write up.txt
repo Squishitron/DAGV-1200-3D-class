@@ -1,0 +1,7 @@
+For the lab 2 project I learned that starting from a cube that mainly envelops the shape you want to make, then cutting and insetting from there
+provides excelent results. I did decide to ultimately bevel everything fully, not because I didnt know how to only bevel a specific edge
+but because beveling all edges ended up giving me a sharp but soft mix that looked very interesting, so I decided to run with it.
+Vertex snapping is a handy tool for moving things into position, but I ultimately found it almost always sitll recquired manual tweaking to look
+correct.
+I found the cutting tool often didnt snap to a percentage small enough for what I wanted at times, and Im not sure if there is a way to snap
+to something smaller than 10%. learning more about how the cutting tool works in maya could be benificial.
